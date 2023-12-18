@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/adnanmusse/Frontend-Mentor-QR-code-solution)
+- Live Site URL: [Frontend Mentor QR ode solution](https://adnanmusse.github.io/Frontend-Mentor-QR-code-solution/)
 
 ## My process
 
